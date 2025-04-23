@@ -1,1 +1,2 @@
 "# learning" 
+select * from
