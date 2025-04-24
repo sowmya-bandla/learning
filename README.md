@@ -1,3 +1,3 @@
 #Python
-##daily progress
-###practice
+ ##daily progress
+  ###practice
