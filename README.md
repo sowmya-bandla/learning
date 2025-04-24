@@ -1,2 +1,3 @@
-"# learning" 
-select * from
+#Python
+##daily progress
+###practice
