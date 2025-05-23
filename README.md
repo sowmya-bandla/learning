@@ -1,2 +1,0 @@
-"# learning" 
-select * from
